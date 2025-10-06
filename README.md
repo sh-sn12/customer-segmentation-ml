@@ -29,7 +29,7 @@ This segmentation helps e-commerce platforms:
 | Phase 2| LRFS Feature Engineering: Extracted Length, Recency, Frequency, Staying rate |
 | Phase 3 | Dimensionality Reduction using Autoencoder and t-SNE |
 | Phase 4 | Clustering & Profiling using K-Means and K-Medoids |
-| Phase 5 | Explainability, Visualization (Plotly), and Streamlit Dashboard creation |
+| Phase 5 | Explainability, Visualization (Plotly,heatmap)|
 
 ---
 
@@ -91,6 +91,7 @@ Derived new behavioral features:
 | **Deployment** | GitHub / Streamlit Cloud |
 
 ---
+
 
 
 

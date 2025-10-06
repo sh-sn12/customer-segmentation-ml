@@ -29,7 +29,7 @@ This segmentation helps e-commerce platforms:
 | Phase 2| LRFS Feature Engineering: Extracted Length, Recency, Frequency, Staying rate |
 | Phase 3 | Dimensionality Reduction using Autoencoder and t-SNE |
 | Phase 4 | Clustering & Profiling using K-Means and K-Medoids |
-| Phase 5 | Explainability (SHAP), Visualization (Plotly), and Streamlit Dashboard creation |
+| Phase 5 | Explainability, Visualization (Plotly), and Streamlit Dashboard creation |
 
 ---
 
@@ -59,7 +59,7 @@ Derived new behavioral features:
 - Visualized cluster distribution in latent space.
 
 ### 🧭 Step 5: Explainability & Visualization
-- Used  **RandomForest Feature Importance** for model interpretation.  
+-  model interpretation.  
 - Created interactive charts using **Plotly** and **Seaborn**.  
 
 ---
@@ -88,11 +88,10 @@ Derived new behavioral features:
 | **Data Handling** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn, Plotly |
 | **Machine Learning** | Scikit-learn, TensorFlow, K-Means, Autoencoder |
-| **Explainability** | SHAP, LIME |
-| **Dashboard** | Streamlit |
 | **Deployment** | GitHub / Streamlit Cloud |
 
 ---
+
 
 
 

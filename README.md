@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-yellow?logo=scikitlearn)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
@@ -91,6 +90,7 @@ Derived new behavioral features:
 | **Deployment** | GitHub / Streamlit Cloud |
 
 ---
+
 
 
 

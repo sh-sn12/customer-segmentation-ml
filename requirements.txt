@@ -1,0 +1,15 @@
+%%writefile /content/customer-segmentation-ml/requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scikit-learn-extra
+tensorflow
+plotly
+streamlit
+shap
+lime
+textblob
+nltk
+torch
